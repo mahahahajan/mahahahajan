@@ -1,13 +1,15 @@
+# Website Template
+
 # Welcome 😁
-
-![This is me!](https://github.com/mahahahajan/mahahahajan/blob/main/DSC_0005.jpg)
-
-[Error 404: Witty Intro caption not found]
 
 # About me:
 
 1. 👨🏽‍🎓I'm a sophomore at the University of Texas Austin (🤘🏽). I'm currently studying Electrical and Computer Engineering, and love messing around with anything from computers and other technology ⌚️
 2. 📸When I'm not coding, I'm binging Netflix (you can follow my progress here), playing video games, or hanging out with friends
+
+![This is me](https://github.com/mahahahajan/mahahahajan/blob/main/DSC_0005.jpg)
+
+[Error 404: Witty Intro caption not found]
 
 # Projects:
 
