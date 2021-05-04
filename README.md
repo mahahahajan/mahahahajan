@@ -15,11 +15,8 @@
 # Projects:
 
 1. 🖥 [I started learning how to code when I was 13](http://pulkitmportfolio.weebly.com/bio.html) , which has turned into a lifetime of tinkering with technology.
-
 2. 🕹I make [iPhone](https://mahahahajan.github.io/PortfolioPage/) and [Android](https://mahahahajan.github.io/PortfolioPage/) apps with Unity. I started building them for class, hackathons, or just for fun - you can check some of them out here
-
 3. 🔋I'm currently working learning how to be a full stack developer by completing [freeCodeCamp](https://www.freecodecamp.org/mahahahajan) and the [Odin Project](https://mahahahajan.github.io/PortfolioPage/)
-
 4. 📒I'm also taking classes such as [Algorithms](https://mahahahajan.github.io/PortfolioPage/) , [Software Design](https://mahahahajan.github.io/PortfolioPage/) , and [Signals and Systems](https://mahahahajan.github.io/PortfolioPage/) . You can see some exmples of my projects and coursework [here.](https://mahahahajan.github.io/PortfolioPage/)
 
 # Get in touch:
