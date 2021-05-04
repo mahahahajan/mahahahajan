@@ -18,8 +18,8 @@
 3. 🔋I'm currently working learning how to be a full stack developer by completing [freeCodeCamp](https://www.freecodecamp.org/mahahahajan) and the [Odin Project](https://mahahahajan.github.io/PortfolioPage/)
 4. 📒I'm also taking classes such as [Algorithms](https://mahahahajan.github.io/PortfolioPage/) , [Software Design](https://mahahahajan.github.io/PortfolioPage/) , and [Signals and Systems](https://mahahahajan.github.io/PortfolioPage/) . You can see some exmples of my projects and coursework [here.](https://mahahahajan.github.io/PortfolioPage/)
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahahahajan&layout=compact&show_icons=true&theme=dark&hide_border=true&border_radius=10px" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahahahajan&layout=compact&show_icons=true&theme=dark&hide_border=true&border_radius=10px&hide=prs,issues" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahahahajan&layout=compact&show_icons=true&theme=dark&hide_border=true&border_radius=10px" />
