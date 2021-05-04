@@ -18,7 +18,8 @@
 3. 🔋I'm currently working learning how to be a full stack developer by completing [freeCodeCamp](https://www.freecodecamp.org/mahahahajan) and the [Odin Project](https://mahahahajan.github.io/PortfolioPage/)
 4. 📒I'm also taking classes such as [Algorithms](https://mahahahajan.github.io/PortfolioPage/) , [Software Design](https://mahahahajan.github.io/PortfolioPage/) , and [Signals and Systems](https://mahahahajan.github.io/PortfolioPage/) . You can see some exmples of my projects and coursework [here.](https://mahahahajan.github.io/PortfolioPage/)
 
-[![Mahahahajan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahahahajan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mahahahajan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahahahajan&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Get in touch:
 
