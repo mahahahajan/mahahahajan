@@ -19,7 +19,7 @@
 4. 📒I'm also taking classes such as [Algorithms](https://mahahahajan.github.io/PortfolioPage/) , [Software Design](https://mahahahajan.github.io/PortfolioPage/) , and [Signals and Systems](https://mahahahajan.github.io/PortfolioPage/) . You can see some exmples of my projects and coursework [here.](https://mahahahajan.github.io/PortfolioPage/)
 
 
-[![Mahahahajan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahahahajan&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Mahahahajan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahahahajan&layout=compact&show_icons=true&theme=dark&hide_border=true&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
 
 # Get in touch:
 
