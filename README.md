@@ -1,6 +1,6 @@
 # Welcome 😁
 
-![Website%20Template%20721f5c0ac99247fc92fe2814e4d84f20/DSC_0005_(2).jpg](Website%20Template%20721f5c0ac99247fc92fe2814e4d84f20/DSC_0005_(2).jpg)
+![This is me!](https://github.com/mahahahajan/mahahahajan/blob/main/DSC_0005.jpg)
 
 [Error 404: Witty Intro caption not found]
 
