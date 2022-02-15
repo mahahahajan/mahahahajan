@@ -5,7 +5,7 @@
 <img src = 'https://github.com/mahahahajan/mahahahajan/blob/main/DSC_0005.jpg' alt = 'This is me' align='right' width = '350px' />
 
 
-1. 👨🏽‍🎓I'm a sophomore at the University of Texas Austin (🤘🏽). I'm currently studying Electrical and Computer Engineering, and love messing around with anything from computers and other technology ⌚️
+1. 👨🏽‍🎓I'm a senior at the University of Texas Austin (🤘🏽). I'm currently studying Electrical and Computer Engineering, and love messing around with anything from computers and other technology ⌚️
 2. 📸When I'm not coding, I'm binging Netflix (you can follow my progress [here](https://www.notion.so/mahahahajan/ee8d0fd81c2e4bec893773baac2f59e6?v=1a3df7a87cb84536b4fb323ba4afa3d4)), playing video games, or hanging out with friends
 
 
@@ -26,7 +26,7 @@
 
 # Get in touch:
 
-1. 📄 [My Resume](https://github.com/mahahahajan/mahahahajan/blob/main/CurrentResume.pdf)
+1. 📄 [My Resume](https://github.com/mahahahajan/mahahahajan/blob/main/CurrentResume2022.pdf)
 2. 📧 Email - Feel free to reach out to me on email for any work oppurtunities.
 3. 📲 You can also reach out to me through my instagram - @mahahahajan
 4. 💙 Thanks for visiting! I’m stoked that you made it this far.
